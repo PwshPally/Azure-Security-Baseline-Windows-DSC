@@ -1,5 +1,7 @@
 <#
     Following the principal of secure by default, this will require insecure settings to explicitly allowed.
+
+    https://docs.microsoft.com/en-us/azure/governance/policy/samples/guest-configuration-baseline-windows
 #>
 
 Configuration ASBW
